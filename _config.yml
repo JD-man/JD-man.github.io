@@ -1,6 +1,6 @@
 # Site
 repository: JD-man/JD-man.github.io
-favicon: images/favicon.ico
+#favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -111,6 +111,12 @@ content:
           메신저 어플입니다.
 
           Firebase를 이용해 실시간으로 대화하는 채팅앱입니다.
+          
+            
+            
+              
+              
+                
 
   - title: Unity VR/AR Projects
     layout: list
