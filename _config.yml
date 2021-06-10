@@ -9,31 +9,31 @@ version: 2
 name: JD-man
 title: iOS Developer
 email: ekgkzmtm@gmail.com
-website: https://jd-man.tistory.com/
+#website: https://jd-man.tistory.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+#twitter_username: jekyllrb
+github_username:  JD-man
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+#orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://jd-man.tistory.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,59 +46,114 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/mobile-phone-1875813_1920.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+    안녕하세요. 한글테스트입니다.
+#  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+#
+#  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: iOS Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+      - layout: left
+        title: VocaHelper
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+            url: https://github.com/JD-man/VocaHelper
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#        quote: >
+#          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+          단어장 어플입니다.
+          
+          단어장 파일은 스마트폰 내부에 저장합니다.
+  - title:
+    layout: list
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: NewsApp
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/JD-man/NewsApp
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          뉴스 어플입니다.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+          RxSwift를 사용해서 만들었습니다.
+
+  - title:
+    layout: list
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Messenger
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/JD-man/Messenger
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          메신저 어플입니다.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Firebase를 이용해 실시간으로 대화하는 채팅앱입니다.
+
+  - title: Unity VR/AR Projects
+    layout: list
+    content:
+      - layout: left
+        title: VR Interior
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/JD-man/VR_Interior
+        description: | # this will include new lines to allow paragraphs
+          가상환경에서 인테리어를 하는 콘텐츠입니다.
+
+          건물의 크기, 물건의 크기, 날씨변화 등 여러환경에서 인테리어합니다.
+
+  - title:
+    layout: list
+    content:
+      - layout: left
+        title: VR MotorShow
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/JD-man/VR_Interior
+        description: | # this will include new lines to allow paragraphs
+          가상환경에서 자동차를 관람하는 콘텐츠입니다.
+
+          네트워크를 통해 다른사람과 같이 관람합니다.
+  - title:
+    layout: list
+    content:
+      - layout: left
+        title: AR Slime Roulette
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/JD-man/VR_Interior
+        description: | # this will include new lines to allow paragraphs
+          증강현실을 이용한 보드게임입니다.
+
+          네트워크를 통해 최대 4명이 플레이합니다.
+
+          안드로이드에서만 플레이하며 구글플레이에 출시했습니다.
 
   - title: A Little More About Me
     layout: text
@@ -113,7 +168,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
