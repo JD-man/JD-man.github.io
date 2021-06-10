@@ -65,9 +65,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/JD-man/VocaHelper
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
-#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-youtube
+            url: https://youtu.be/0lN299GiMYs
 #        quote: >
 #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
@@ -85,6 +85,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/JD-man/NewsApp
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-youtube
+            url: https://youtu.be/5Zj4RIqBQNw
         description: | # this will include new lines to allow paragraphs
           뉴스 어플입니다.
 
@@ -101,6 +104,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/JD-man/Messenger
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-youtube
+            url: https://youtu.be/deb5kR8gL_c
         description: | # this will include new lines to allow paragraphs
           메신저 어플입니다.
 
@@ -117,6 +123,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/JD-man/VR_Interior
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-youtube
+            url: https://youtu.be/cri9bPMK4g0
         description: | # this will include new lines to allow paragraphs
           가상환경에서 인테리어를 하는 콘텐츠입니다.
 
@@ -132,7 +141,10 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: https://github.com/JD-man/VR_Interior
+            url: https://github.com/JD-man/VR_MotorShow
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-youtube
+            url: https://youtu.be/yJDFiV0x4vo
         description: | # this will include new lines to allow paragraphs
           가상환경에서 자동차를 관람하는 콘텐츠입니다.
 
@@ -147,7 +159,10 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: https://github.com/JD-man/VR_Interior
+            url: https://github.com/JD-man/AR_BoardGame
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-youtube
+            url: https://youtu.be/h3dJ4aWXiv4
         description: | # this will include new lines to allow paragraphs
           증강현실을 이용한 보드게임입니다.
 
@@ -158,14 +173,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+        우왕굳
+        
+        우왕
+        
+        굳
+        
+        
+      
 
 # Footer
 footer_show_references: false
