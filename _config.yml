@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: JD-man
-title: iOS Developer
+title: iOS Developer. Unity Developer
 email: ekgkzmtm@gmail.com
 #website: https://jd-man.tistory.com/
 
@@ -57,7 +57,7 @@ content:
   - title: iOS Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: VocaHelper
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
@@ -77,7 +77,7 @@ content:
   - title:
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: NewsApp
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
@@ -96,7 +96,7 @@ content:
   - title:
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: Messenger
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
@@ -111,17 +111,29 @@ content:
           메신저 어플입니다.
 
           Firebase를 이용해 실시간으로 대화하는 채팅앱입니다.
-          
-            
-            
-              
-              
-                
+  - title:
+    layout: list
+    content:
+#      - layout: left
+#        title: Messenger
+#        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#        #link_text: Link Text
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: https://github.com/JD-man/Messenger
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-youtube
+#            url: https://youtu.be/deb5kR8gL_c
+#        description: | # this will include new lines to allow paragraphs
+#          메신저 어플입니다.
+#
+#          Firebase를 이용해 실시간으로 대화하는 채팅앱입니다.
 
   - title: Unity VR/AR Projects
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: VR Interior
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
@@ -140,7 +152,7 @@ content:
   - title:
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: VR MotorShow
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
@@ -158,7 +170,7 @@ content:
   - title:
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: AR Slime Roulette
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
@@ -176,14 +188,14 @@ content:
 
           안드로이드에서만 플레이하며 구글플레이에 출시했습니다.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-        우왕굳
-        
-        우왕
-        
-        굳
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#        우왕굳
+#        
+#        우왕
+#        
+#        굳
         
         
       
