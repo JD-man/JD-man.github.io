@@ -57,7 +57,7 @@ content:
   - title: iOS Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: VocaHelper
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
@@ -77,7 +77,7 @@ content:
   - title:
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: NewsApp
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
@@ -96,7 +96,7 @@ content:
   - title:
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: Messenger
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
@@ -133,7 +133,7 @@ content:
   - title: Unity VR/AR Projects
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: VR Interior
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
@@ -152,7 +152,7 @@ content:
   - title:
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: VR MotorShow
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
@@ -170,7 +170,7 @@ content:
   - title:
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: AR Slime Roulette
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
