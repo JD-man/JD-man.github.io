@@ -204,6 +204,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-youtube
             url: https://youtu.be/h3dJ4aWXiv4
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.JDG.SilmeRoulette
         description: | # this will include new lines to allow paragraphs
           간단소개 : 증강현실을 이용한 짧고 간단한 벌칙보드게임입니다. 네트워크를 통해 최대 4명이 플레이합니다. <mark>구글플레이에 출시</mark>했습니다,
           
