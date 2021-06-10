@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: JD-man
-title: iOS Developer. Unity Developer
+title: iOS Developer
 email: ekgkzmtm@gmail.com
 #website: https://jd-man.tistory.com/
 
@@ -31,7 +31,7 @@ github_username:  JD-man
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: Blog
   icon: fas fa-globe
   url: https://jd-man.tistory.com/
 # - title: another link
@@ -48,7 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/eight_1024.png
 about_content: | # this will include new lines to allow paragraphs
-    안녕하세요. 한글테스트입니다.
+    안녕하세요.
+    
+    iOS 개발자를 꿈꾸고있는 조동현입니다.
+    
+    Skill : <mark>Swift</mark>, <mark>iOS</mark>, <mark>Unity</mark>, <mark>C#</mark>, <mark>Python</mark>
+    
 #  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 #
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
@@ -176,14 +181,12 @@ content:
     layout: list
     content:
 
-#  - title: A Little More About Me
-#    layout: text
-#    content: | # this will include new lines to allow paragraphs
-#        우왕굳
-#
-#        우왕
-#
-#        굳
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        모바일을 이용한 증강현실, 머신러닝 모델을 통한 이미지 처리 등에 관심이 많습니다.
+        
+        현재는 iOS 개발자를 목표로 열심히 공부하고 있습니다.
 
 # Footer
 footer_show_references: false
