@@ -149,9 +149,6 @@ content:
         #link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://github.com/JD-man/VR_Interior
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-youtube
             url: https://youtu.be/cri9bPMK4g0
         description: | # this will include new lines to allow paragraphs
@@ -176,9 +173,6 @@ content:
         #link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://github.com/JD-man/VR_MotorShow
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-youtube
             url: https://youtu.be/yJDFiV0x4vo
         description: | # this will include new lines to allow paragraphs
@@ -197,10 +191,7 @@ content:
         title: AR Slime Roulette
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://github.com/JD-man/AR_BoardGame
+        additional_links:          
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-youtube
             url: https://youtu.be/h3dJ4aWXiv4
