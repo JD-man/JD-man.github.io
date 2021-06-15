@@ -64,14 +64,14 @@ content:
     content:
       - layout: left
         title: VocaHelper
-        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #link_text: Link Text
+        #link: Link to project
+        #link_text: Github, Youtube link
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
+          - title:  Github page for project
+            icon: fab fa-github fa-2x
             url: https://github.com/JD-man/VocaHelper
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-youtube
+          - title:  Youtube for project
+            icon: fab fa-youtube fa-2x
             url: https://youtu.be/0lN299GiMYs
 #        quote: >
 #          Short overview of the project (optional)
@@ -95,10 +95,10 @@ content:
         #link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
+            icon: fab fa-github fa-2x
             url: https://github.com/JD-man/NewsApp
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-youtube
+            icon: fab fa-youtube fa-2x
             url: https://youtu.be/5Zj4RIqBQNw
         description: | # this will include new lines to allow paragraphs
           간단소개 : NewsAPI를 이용해 미국, 한국뉴스를 볼 수 있는 뉴스 어플입니다.
@@ -120,10 +120,10 @@ content:
         #link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
+            icon: fab fa-github fa-2x
             url: https://github.com/JD-man/Messenger
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-youtube
+            icon: fab fa-youtube fa-2x
             url: https://youtu.be/deb5kR8gL_c
         description: | # this will include new lines to allow paragraphs
             간단소개 : <mark>Firebase</mark>를 이용해 실시간으로 대화하는 메신저 어플입니다.
@@ -149,7 +149,7 @@ content:
         #link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-youtube
+            icon: fab fa-youtube fa-2x
             url: https://youtu.be/cri9bPMK4g0
         description: | # this will include new lines to allow paragraphs
           간단소개 : 가상현실에서 인테리어를 하는 어플리케이션입니다. 건물의 크기, 물건의 크기, 날씨변화 등 여러환경에서 인테리어합니다.
@@ -173,7 +173,7 @@ content:
         #link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-youtube
+            icon: fab fa-youtube fa-2x
             url: https://youtu.be/yJDFiV0x4vo
         description: | # this will include new lines to allow paragraphs
           간단소개 : 가상현실에서 자동차를 관람하는 콘텐츠입니다. 네트워크를 통해 다른사람과 같이 관람합니다.
@@ -191,12 +191,12 @@ content:
         title: AR Slime Roulette
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
-        additional_links:          
+        additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-youtube
+            icon: fab fa-youtube fa-2x
             url: https://youtu.be/h3dJ4aWXiv4
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-google-play
+            icon: fab fa-google-play fa-2x
             url: https://play.google.com/store/apps/details?id=com.JDG.SilmeRoulette
         description: | # this will include new lines to allow paragraphs
           간단소개 : <mark>증강현실</mark>을 이용한 짧고 간단한 벌칙보드게임입니다. 네트워크를 통해 최대 4명이 플레이합니다. <mark>구글플레이에 출시</mark>했습니다,
