@@ -94,10 +94,10 @@ content:
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github fa-2x
             url: https://github.com/JD-man/NewsApp
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Youtube page for project
             icon: fab fa-youtube fa-2x
             url: https://youtu.be/5Zj4RIqBQNw
         description: | # this will include new lines to allow paragraphs
@@ -119,10 +119,10 @@ content:
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github fa-2x
             url: https://github.com/JD-man/Messenger
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Youtube page for project
             icon: fab fa-youtube fa-2x
             url: https://youtu.be/deb5kR8gL_c
         description: | # this will include new lines to allow paragraphs
@@ -148,7 +148,7 @@ content:
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Youtube page for project
             icon: fab fa-youtube fa-2x
             url: https://youtu.be/cri9bPMK4g0
         description: | # this will include new lines to allow paragraphs
@@ -172,7 +172,7 @@ content:
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Youtube page for project
             icon: fab fa-youtube fa-2x
             url: https://youtu.be/yJDFiV0x4vo
         description: | # this will include new lines to allow paragraphs
@@ -192,10 +192,10 @@ content:
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Youtube page for project
             icon: fab fa-youtube fa-2x
             url: https://youtu.be/h3dJ4aWXiv4
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Google Play page for project
             icon: fab fa-google-play fa-2x
             url: https://play.google.com/store/apps/details?id=com.JDG.SilmeRoulette
         description: | # this will include new lines to allow paragraphs
