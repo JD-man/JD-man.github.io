@@ -69,7 +69,7 @@ content:
         additional_links:
           - title:  Github page for project
             icon: fab fa-github fa-2x
-            url: https://github.com/JD-man/VocaHelperOrigin
+            url: https://github.com/JD-man/VocaHelper
           - title:  Youtube for project
             icon: fab fa-youtube fa-2x
             url: https://youtu.be/0lN299GiMYs
