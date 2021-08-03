@@ -70,9 +70,9 @@ content:
           - title:  Github page for project
             icon: fab fa-github fa-2x
             url: https://github.com/JD-man/VocaHelper
-          - title:  Youtube for project
-            icon: fab fa-youtube fa-2x
-            url: https://youtu.be/0lN299GiMYs
+          # - title:  Youtube for project
+          #   icon: fab fa-youtube fa-2x
+          #   url: https://youtu.be/0lN299GiMYs
           - title:  AppStore for project
             icon: fab fa-app-store fa-2x
             url: https://apps.apple.com/kr/app/vocahelper/id1578842808
@@ -89,7 +89,11 @@ content:
           
           - 제작소감 : <mark>스토리보드 없이</mark> 코드로만 제작하는데 익숙해졌습니다. <mark>RxSwift</mark>와 <mark>Firebase</mark>의 사용법을 익혔습니다.
           
-          - <mark>앱스토어에 출시</mark>한 첫번째 어플입니다.
+          - <mark>앱스토어에 출시</mark>한 첫번째 어플입니다.  
+          
+
+
+              ![EditVC](images/EditVC.gif){: width="25%" height="25%"} ![EditVC](images/PracticeVC.gif){: width="25%" height="25%"} ![EditVC](images/ExamVC&ResultVC.gif){: width="25%" height="25%"}
           
   - title:
     layout: list
