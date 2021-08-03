@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/eight_1024.png
+about_profile_image: images/profile2.png
 about_content: | # this will include new lines to allow paragraphs
     안녕하세요.
     
@@ -93,7 +93,9 @@ content:
           
 
 
-              ![EditVC](images/EditVC.gif){: width="25%" height="25%"} ![EditVC](images/PracticeVC.gif){: width="25%" height="25%"} ![EditVC](images/ExamVC&ResultVC.gif){: width="25%" height="25%"}
+              ![EditVC](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FXkR42%2FbtraXXrXc8J%2Fy7bmCJ9uDPN2xvDSpKbPw0%2Fimg.gif){: width="25%" height="25%"} 
+              ![EditVC](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbR1Dzf%2FbtraVE7A4Et%2FgPWJXKMTLQyB3QXzu7sai1%2Fimg.gif){: width="25%" height="25%"} 
+              ![EditVC](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbAkdGA%2FbtraSXUm0Yo%2FiySup1JXY5XYtePCIk7FZK%2Fimg.gif){: width="25%" height="25%"}
           
   - title:
     layout: list
