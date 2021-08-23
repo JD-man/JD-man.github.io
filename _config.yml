@@ -110,15 +110,15 @@ content:
             url: https://github.com/JD-man/NewsApp
           - title:  Youtube page for project
             icon: fab fa-youtube fa-2x
-            url: https://youtu.be/5Zj4RIqBQNw
+            url: https://youtu.be/r4_lhv_K4m4
         description: | # this will include new lines to allow paragraphs
           - 간단설명 : NewsAPI를 이용해 미국, 한국뉴스를 볼 수 있는 뉴스 어플입니다.
           
-          - 개발환경 : Swift,Xcode, NewsAPI, RxSwift
+          - 개발환경 : Swift,Xcode, NewsAPI, RxSwift, Alamofire
 
           - 제작이유 : <mark>RxSwift</mark>,<mark>MVVM</mark>을 공부하기 위해서 만들었습니다.
           
-          - 제작기간 : 3일
+          - 제작기간 : 1주일
           
           - 제작소감 : 공부기간이 더 길었던 프로젝트였습니다. 비동기, 반응형 프로그래밍을 위한 RxSwift의 기능을 이해하게 됐습니다.
 
