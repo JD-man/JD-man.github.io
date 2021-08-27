@@ -122,6 +122,10 @@ content:
           
           - 제작소감 : 공부기간이 더 길었던 프로젝트였습니다. 비동기, 반응형 프로그래밍을 위한 RxSwift의 기능을 이해하게 됐습니다.
           
+            ![Main](images/NewsApp/Main.png){: width="33%" height="33%"}
+            ![Search](images/NewsApp/Search.png){: width="33%" height="33%"}
+            ![SearchResult](images/NewsApp/SearchResult.png){: width="33%" height="33%"}
+          
 
   - title:
     layout: list
@@ -146,7 +150,12 @@ content:
             
             - 제작기간 : 1주일
             
-            - 제작소감 : 데이터베이스, 백엔드 지식이 없는 초보개발자로서 이번에 Firebase를 공부한것은 많은 도움이 될 것 같습니다.            
+            - 제작소감 : 데이터베이스, 백엔드 지식이 없는 초보개발자로서 이번에 Firebase를 공부한것은 많은 도움이 될 것 같습니다.
+                
+                ![Login](images/Messenger/Login.jpeg){: width="33%" height="33%"}
+                ![ChatStart](images/Messenger/ChatStart.jpeg){: width="33%" height="33%"}
+                ![ImageSend](images/Messenger/ImageSend.jpeg){: width="33%" height="33%"}
+                
             
   - title:
     layout: list
