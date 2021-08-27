@@ -123,7 +123,7 @@ content:
           - 제작소감 : 공부기간이 더 길었던 프로젝트였습니다. 비동기, 반응형 프로그래밍을 위한 RxSwift의 기능을 이해하게 됐습니다.
           
           
-            <center><img src = "images/NewsApp.gif" width="33%"></center>
+            <center><img src = "images/NewsApp.gif" width="20%"></center>
           
 
   - title:
@@ -154,7 +154,7 @@ content:
             
                 <img src = "images/Login.gif" width="30%">
                 <img src = "images/Chat.gif" width="30%">
-                <img src = "images/Photo.gif" width="30%">
+                <img src = "images/Photo2.gif" width="30%">
             
   - title:
     layout: list
