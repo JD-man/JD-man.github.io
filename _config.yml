@@ -50,9 +50,13 @@ about_profile_image: images/Head.jpeg
 about_content: | # this will include new lines to allow paragraphs
     안녕하세요.
     
-    iOS 개발자를 꿈꾸고있는 조동현입니다.
+    iOS 개발자를 꿈꾸고 있는 조동현입니다.
     
-    Skill : <mark>Swift</mark>, <mark>iOS</mark>, <mark>Unity</mark>, <mark>C#</mark>, <mark>Python</mark>
+    프로젝트에 대해 간단한 설명을 적어놨습니다.
+    
+    프로젝트 이름 밑에 깃헙이나 유튜브 링크가 있으며, 출시한 경우 스토어 링크가 있습니다.
+    
+    감사합니다.
     
 #  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 #
