@@ -95,9 +95,9 @@ content:
           
           - <mark>앱스토어에 출시</mark>한 첫번째 어플입니다.
           
-          ![EditVC](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FXkR42%2FbtraXXrXc8J%2Fy7bmCJ9uDPN2xvDSpKbPw0%2Fimg.gif){: width="33%" height="33%"}
-          ![EditVC](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbR1Dzf%2FbtraVE7A4Et%2FgPWJXKMTLQyB3QXzu7sai1%2Fimg.gif){: width="33%" height="33%"}
-          ![EditVC](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbAkdGA%2FbtraSXUm0Yo%2FiySup1JXY5XYtePCIk7FZK%2Fimg.gif){: width="33%" height="33%"}
+          ![EditVC](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FXkR42%2FbtraXXrXc8J%2Fy7bmCJ9uDPN2xvDSpKbPw0%2Fimg.gif){: width="30%" height="30%"}
+          ![EditVC](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbR1Dzf%2FbtraVE7A4Et%2FgPWJXKMTLQyB3QXzu7sai1%2Fimg.gif){: width="30%" height="30%"}
+          ![EditVC](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbAkdGA%2FbtraSXUm0Yo%2FiySup1JXY5XYtePCIk7FZK%2Fimg.gif){: width="30%" height="30%"}
               
   - title:
     layout: list
@@ -124,9 +124,9 @@ content:
           
           - 제작소감 : 공부기간이 더 길었던 프로젝트였습니다. 비동기, 반응형 프로그래밍을 위한 RxSwift의 기능을 이해하게 됐습니다.
           
-          ![Main](images/NewsApp/Main.png){: width="33%" height="33%"}
-          ![Search](images/NewsApp/Search.png){: width="33%" height="33%"}
-          ![SearchResult](images/NewsApp/SearchResult.png){: width="33%" height="33%"}
+          ![Main](images/NewsApp/Main.png){: width="30%" height="30%"}
+          ![Search](images/NewsApp/Search.png){: width="30%" height="30%"}
+          ![SearchResult](images/NewsApp/SearchResult.png){: width="30%" height="30%"}
           
 
   - title:
@@ -153,9 +153,10 @@ content:
             - 제작기간 : 1주일
             
             - 제작소감 : 데이터베이스, 백엔드 지식이 없는 초보개발자로서 이번에 Firebase를 공부한것은 많은 도움이 될 것 같습니다.
-            ![Login](images/Messenger/Login.png){: width="33%" height="33%"}
-            ![Search](images/Messenger/Search.png){: width="33%" height="33%"}
-            ![Chat](images/Messenger/Chat.png){: width="33%" height="33%"}
+            
+            ![Login](images/Messenger/Login.png){: width="30%" height="30%"}
+            ![Search](images/Messenger/Search.png){: width="30%" height="30%"}
+            ![Chat](images/Messenger/Chat.png){: width="30%" height="30%"}
                 
             
   - title:
