@@ -242,8 +242,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-        모바일을 이용한 증강현실, 머신러닝 모델을 통한 이미지 처리 등에 관심이 많습니다.
-        
+    
         현재는 <mark>iOS 개발자를 목표</mark>로 열심히 공부하고 있습니다.
 
 # Footer
