@@ -80,7 +80,7 @@ content:
             url: https://github.com/JD-man/SoccerInfo
           - title:  Youtube for project
             icon: fab fa-youtube fa-2x
-            url: https://youtu.be/SrqsYSq0zEI
+            url: https://youtu.be/6LX6KvW8E1E
           - title:  AppStore for project
             icon: fab fa-app-store fa-2x
             url: https://apps.apple.com/kr/app/%ED%92%8B%EB%B3%BC%EC%9D%B8%ED%8F%AC/id1596846211
@@ -92,11 +92,13 @@ content:
           &nbsp;  
 
           #### **개발환경**
-          UIKit, Alamofire, Kingfisher, Realm-Cocoa, Realm Sync.  
+          Alamofire, Kingfisher, Charts  
+          Realm-Cocoa, Realm Sync  
+          Google Analytics/Crashlytics.  
           &nbsp;  
           
           #### **제작기간**
-          3주  
+          3주 ~ 업데이트 중
           &nbsp;  
 
           <mark>앱스토어에 출시</mark>한 두번째 앱입니다.  
