@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appIDs": [ "Z2SX2S8N8L.com.JDman.SoccerInfo"],
+             "paths": ["*"]
+           }
+       ]
+   }
+}

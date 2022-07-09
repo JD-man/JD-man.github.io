@@ -4,6 +4,7 @@ repository: JD-man/JD-man.github.io
 
 # Content configuration version
 version: 2
+include: [".well-known"]
 
 # Personal info
 name: JD-man
